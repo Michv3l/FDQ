@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483532505164",
+    "project_id": "final-year-fds",
+    "storage_bucket": "final-year-fds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483532505164:android:65e7cc9642e55d064a74e9",
+        "android_client_info": {
+          "package_name": "com.example.firstdatequestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483532505164-8gu93ret93obc19fomvakgdslhjcufjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8-phGNFVmrrQYkX6Cv_LRoj3MrVFp-vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483532505164-8gu93ret93obc19fomvakgdslhjcufjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
